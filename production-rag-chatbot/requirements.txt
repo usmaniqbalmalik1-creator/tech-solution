@@ -1,0 +1,6 @@
+openai>=1.99,<3
+faiss-cpu>=1.8,<2
+numpy>=1.26,<3
+python-dotenv>=1,<2
+streamlit>=1.35,<2
+pytest>=8,<10
