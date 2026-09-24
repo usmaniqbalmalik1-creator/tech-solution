@@ -1,0 +1,6 @@
+[
+{"id":"returns-01","question":"How long do customers have to return an unused product?","expected_sources":["knowledge_base.md:0"],"reference_answer":"Unused products can be returned within 30 days of delivery."},
+{"id":"shipping-01","question":"How long does standard shipping take?","expected_sources":["knowledge_base.md:1"],"reference_answer":"Standard shipping takes 3–5 business days."},
+{"id":"tracking-01","question":"What should I do if I never receive my tracking email?","expected_sources":["knowledge_base.md:2"],"reference_answer":"If tracking has not arrived within 48 hours, contact support@example.com with the order number."},
+{"id":"warranty-01","question":"Does the warranty cover accidental damage?","expected_sources":["knowledge_base.md:3"],"reference_answer":"No. Accidental damage is excluded."}
+]
