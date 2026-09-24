@@ -1,0 +1,6 @@
+openai>=1.30,<3
+sentence-transformers>=3,<6
+numpy>=1.26,<3
+pypdf>=4,<7
+python-dotenv>=1,<2
+streamlit>=1.35,<2
