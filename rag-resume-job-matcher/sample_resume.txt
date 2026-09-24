@@ -1,0 +1,5 @@
+Python developer with experience building REST APIs and data pipelines.
+
+Built a document question-answering prototype using embeddings and retrieval.
+
+Experience with SQL, Git, testing, and cloud deployment fundamentals.
