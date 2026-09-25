@@ -1,0 +1,8 @@
+customer,category,quantity,revenue,month
+Ali,Electronics,2,1800,2026-01
+Sara,Electronics,4,2400,2026-01
+Hamza,Furniture,3,900,2026-02
+Ayesha,Electronics,2,1200,2026-02
+Bilal,Furniture,8,800,2026-03
+Hina,Electronics,1,900,2026-03
+BadRow,Furniture,-2,100,2026-03
